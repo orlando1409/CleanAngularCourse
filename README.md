@@ -1,7 +1,7 @@
-# Angular Course
+# Angular Clean code and unit testing
 Angular course, basic concepts, clean code and testing.
 
-### Setting wook environment
+### Setting work environment
 We will need to install:
 
 * install node.js
