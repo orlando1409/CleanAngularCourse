@@ -13,7 +13,7 @@ You can get them from [http://nodejs.org/](http://nodejs.org/).
 We will need to install:
 
 * install node.js
-* install Source tree or GITHUB desktop.
+* install [Source tree](https://www.sourcetreeapp.com/) or GITHUB desktop.
 * Download the source code from GITHUB
 * Open command prompt, into to the folder path and execute this :
 ```
