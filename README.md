@@ -1,14 +1,39 @@
 # Angular Clean code and unit testing
 Angular course, basic concepts, clean code and testing.
 
-### Setting work environment
+### Prerequisites
+
+You need git to clone the angular-seed repository. You can get git from
+[http://git-scm.com/](http://git-scm.com/).
+
+You must have node.js and its package manager (npm) installed.  
+You can get them from [http://nodejs.org/](http://nodejs.org/).
+
+### Setting work environment for this course
 We will need to install:
 
 * install node.js
 * install Source tree or GITHUB desktop.
-* Download the source code from GITHUB (Of course you need to install GIT)
+* Download the source code from GITHUB
 * Open command prompt, into to the folder path and execute this :
-* `npm init`
+```
+npm install
+```
+Behind the scenes this will also call `bower install`.  You should find that you have two new
+folders in your project.
+
+* `node_modules` - contains the npm packages for the tools we need
+* `app/bower_components` - contains the angular framework files
+
+### Run the Application
+
+We have preconfigured the project with a simple development web server.  The simplest way to start
+this server is:
+
+```
+npm start
+```
+Now browse to the app at `http://localhost:8000/app/index.html`.
 
 
 ### Visual Studio environment (Optional)
