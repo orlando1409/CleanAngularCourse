@@ -1,8 +1,8 @@
 {
-  "name": "angular-clean-code",
-  "description": "A starter project for AngularJS course",
+  "name": "angular-Course-seed",
+  "description": "A starter project for AngularJS Course",
   "version": "0.0.0",
-  "homepage": "https://github.com/jcyovera/CleanAngularCourse.git,
+  "homepage": "https://github.com/jcyovera/CleanAngularCourse.git",
   "license": "MIT",
   "private": true,
   "dependencies": {

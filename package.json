@@ -1,8 +1,8 @@
 {
-  "name": "angular-clean-code",
+  "name": "angular-Course-seed",
   "private": true,
   "version": "0.0.0",
-  "description": "Angular Course for Belatrix",
+  "description": "A starter project for AngularJS Course",
   "repository": "https://github.com/jcyovera/CleanAngularCourse.git",
   "license": "MIT",
   "devDependencies": {
