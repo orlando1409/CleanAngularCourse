@@ -29,7 +29,7 @@ folders in your project.
 
 We have preconfigured the project with a simple development web server.  The simplest way to start
 this server is:
-
+* Open command prompt, into to the folder path and execute this :
 ```
 npm start
 ```
