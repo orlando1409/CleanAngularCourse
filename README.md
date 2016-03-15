@@ -16,7 +16,7 @@ We will need to install:
 * install node.js
 * install git
 * install [Source tree](https://www.sourcetreeapp.com/) or GITHUB desktop.
-* Download the source code from GITHUB
+* Download the source code from [https://github.com/jcyovera/CleanAngularCourse.git](GITHUB)
 * Open command prompt, into to the folder path and execute this :
 ```
 npm install
