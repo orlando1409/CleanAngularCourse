@@ -9,6 +9,6 @@ angular.module('DemoAngular.view2', ['ngRoute'])
   });
 }])
 
-.controller('View2Ctrl', [function() {
-
+.controller('View2Ctrl', ['$scope','dataFactory',function($scope,dataFactory) {
+  $scope.items=dataFactory.getItems();
 }]);

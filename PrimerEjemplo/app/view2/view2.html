@@ -1,4 +1,17 @@
-<p>This is the partial for view 2.</p>
+<div>
+  <div class="bar">
+    <input type="text" placeholder="Enter your search text" ng-model="searchString">
+  </div>
+  <ul class="searchList">
+    <li ng-repeat="i in items  | searchFor:searchString">
+      <a href="{{i.url}}"><img ng-src="{{i.image}}" /></a>
+      <p>{{i.title}}</p>
+    </li>
+  </ul>
+</div>
+
+
+
 <p>
   Showing of 'interpolate' filter:
   {{ 'Current version is v%VERSION%.' | interpolate }}
