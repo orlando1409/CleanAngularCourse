@@ -3,7 +3,8 @@ Angular course, basic concepts, clean code and testing.
 
 ### Prerequisites
 
-You need git to clone the angular-seed repository. You can get git from
+You need git to clone the repository. 
+You can get git from
 [http://git-scm.com/](http://git-scm.com/).
 
 You must have node.js and its package manager (npm) installed.  
@@ -13,8 +14,9 @@ You can get them from [http://nodejs.org/](http://nodejs.org/).
 We will need to install:
 
 * install node.js
+* install git
 * install [Source tree](https://www.sourcetreeapp.com/) or GITHUB desktop.
-* Download the source code from GITHUB
+* Download the source code from [GITHUB](https://github.com/jcyovera/CleanAngularCourse.git)
 * Open command prompt, into to the folder path and execute this :
 ```
 npm install
@@ -29,7 +31,7 @@ folders in your project.
 
 We have preconfigured the project with a simple development web server.  The simplest way to start
 this server is:
-
+* Open command prompt, into to the folder path and execute this :
 ```
 npm start
 ```
