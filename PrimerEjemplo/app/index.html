@@ -16,7 +16,7 @@
 </head>
 <body>
   <ul class="{{'mainMenu menu ' + active}}">
-    <li><a class="home" href="#/view1" ng-click="active='home'">Home</a></li>
+    <li><a class="home" href="#/home" ng-click="active='home'">Home</a></li>
     <li><a class="search" href="#/view2" ng-click="active='search'">Search</a></li>
   </ul>
 
@@ -34,7 +34,9 @@
       'bower_components/angular/angular.js',
       'bower_components/angular-route/angular-route.js',
       'app.js',
-      'view1/view1.js',
+      'Home/HomeApp.js',
+      'Home/HomeController.js',
+      'Home/SubViewController.js',
       'view2/view2.js',
       'view2/searchFor.js',
       'view2/searchFactory.js',
