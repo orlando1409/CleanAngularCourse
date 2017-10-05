@@ -7,10 +7,9 @@ This app manages to-dos. Using the app, the user can list, add, edit and remove 
 ### Prerequisites
 
  - [node](https://nodejs.org/en/download/) version 6.11.3 or higher.
- - [npm](https://www.npmjs.com/package/download) version 3.10.10 or higher.
+ - [Get Visual Code](https://code.visualstudio.com/download).
  - [yarn](https://yarnpkg.com/lang/en/docs/install/) version 1.1.0 or higher.
  - [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
- - [Get Visual Code](https://code.visualstudio.com/download).
 
 ### Quick start
 
