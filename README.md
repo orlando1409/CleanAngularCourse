@@ -1,6 +1,6 @@
 # Angular example to-dos application
 
-Example Angular application built from scratch, using the angular-cli. Have a look at the [step by step guide](https://github.com/orlando1409).
+Example Angular application built from scratch, using the angular-cli. 
 
 This app manages to-dos. Using the app, the user can list, add, edit and remove to-dos
 
@@ -10,6 +10,10 @@ This app manages to-dos. Using the app, the user can list, add, edit and remove 
  - [Get Visual Code](https://code.visualstudio.com/download).
  - [yarn](https://yarnpkg.com/lang/en/docs/install/) version 1.1.0 or higher.
  - [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+
+### Building the app from scratch
+
+Have a look at the [step by step guide](https://github.com/orlando1409).
 
 ### Quick start
 
